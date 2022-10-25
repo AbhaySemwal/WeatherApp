@@ -26,7 +26,7 @@ function Mbody()
         })
     }
     useEffect(()=>{
-        getWeather("Delhi");
+        getWeather("Dehradun");
     },[])
 
     return(
